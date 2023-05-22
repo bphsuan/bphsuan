@@ -4,8 +4,8 @@
 
 #### 💻 &nbsp; About Me
 
-I'm a front-end engineer from Taiwan.<br/>
-Passionately leading the front-end team within the dynamic realm of our IT department.<img src="https://media.giphy.com/media/LO95QQqSmnolIZTPrV/giphy.gif" width="50">
+I'm a senior front-end engineer from Taiwan.<br/>
+Passionately Leading the Front-End Team in our Company's IT Department.
 
 #### 🔥 My Stats
 

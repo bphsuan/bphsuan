@@ -4,8 +4,8 @@
 
 #### 💻 &nbsp; About Me
 
-I'm a senior front-end engineer from Taiwan.<br/>
-Passionately Leading the Front-End Team in our Company's IT Department.
+Hello, I'm a front-end engineer from Taiwan. Currently, I'm working at KKTIX, a well-known ticketing platform in the region. <br/>
+My focus is on web design and development, dedicated to creating user-friendly and engaging website experiences.
 
 #### 🔥 My Stats
 
